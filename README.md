@@ -1,6 +1,6 @@
 # Karthik Arjun
 
-Applied AI and SAP solutions architect. Founder of [NexageApps](https://www.nexageapps.com), an SAP OEM partner. I am completing a Master of AI at the University of Auckland and looking for non-consulting applied AI roles in Singapore.
+Applied AI and SAP solutions architect, currently studying for a Master of AI at the University of Auckland.
 
 I work on tools that help SAP teams use AI on their own business data, with human approval and an audit trail. I also publish the study material I use myself.
 
