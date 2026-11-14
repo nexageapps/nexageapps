@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-nexageapps.com-6e7681?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.nexageapps.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NexageApps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nexageapps)
 [![X](https://img.shields.io/badge/X-@nexageapps2-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nexageapps2)
-[![Instagram](https://img.shields.io/badge/Instagram-nexageapps-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nexageapps)
+[![Instagram](https://img.shields.io/badge/Instagram-nexageapps2-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nexageapps2/)
 [![Sponsor](https://img.shields.io/badge/Sponsor-nexageapps-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/nexageapps)
 
 [Products](#-products) · [SAP & Enterprise AI](#-sap-and-enterprise-ai) · [Learning](#-learning-resources) · [Connect](#-connect)
@@ -63,6 +63,6 @@
 [![Website](https://img.shields.io/badge/Website-nexageapps.com-6e7681?style=flat-square&logo=googlechrome&logoColor=white)](https://www.nexageapps.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NexageApps-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nexageapps)
 [![X](https://img.shields.io/badge/X-@nexageapps2-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nexageapps2)
-[![Instagram](https://img.shields.io/badge/Instagram-nexageapps-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nexageapps)
+[![Instagram](https://img.shields.io/badge/Instagram-nexageapps2-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nexageapps2/)
 
 </div>
