@@ -7,7 +7,7 @@
 [![Website](https://img.shields.io/badge/Website-nexageapps.com-6e7681?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.nexageapps.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NexageApps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nexageapps)
 [![X](https://img.shields.io/badge/X-@nexageapps2-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nexageapps2)
-[![Instagram](https://img.shields.io/badge/Instagram-nexageapps-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nexageapps)
+[![Instagram](https://img.shields.io/badge/Instagram-nexageapps2-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nexageapps2/)
 [![Sponsor](https://img.shields.io/badge/Sponsor-nexageapps-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/nexageapps)
 
 [Products](#-products) · [SAP & Enterprise AI](#-sap-and-enterprise-ai) · [Learning](#-learning-resources) · [Connect](#-connect)
@@ -24,9 +24,9 @@
 
 | Product | What it is |
 | --- | --- |
-| <img src="https://cdn.simpleicons.org/bluetooth/0082FC" height="16"> **Intwise** | private communication for people who are physically nearby, over Bluetooth, with no mobile data, WiFi, or cloud account. |
-| <img src="https://cdn.simpleicons.org/audacity/0000CC" height="16"> **Yaazh** | Voice AI built around voices people have permission to use, with privacy and consent at the centre. |
-| <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="16"> **Kiara**, **QR Scan Pro**, **Lucky Flipper**, **OpenPDF Hub** | and other small tools. |
+| <img src="images/yaazh.png" height="32" alt="Yaazh"> **[Yaazh](https://www.nexageapps.com/apps/yaazh/)** | Local Voice AI studio for cloning a voice you have permission to keep and generating speech on your machine. |
+| <img src="images/kiara.png" height="32" alt="Kiara"> **[Kiara](https://www.nexageapps.com/apps/kiara/)** | Offline money manager and budget tracker with on-device categorisation. |
+| <img src="images/intwise.png" height="32" alt="intwise"> **[intwise](https://www.nexageapps.com/intwise/)** | Private nearby network. Connect over Bluetooth, exchange selected details with mutual approval, and chat without mobile data, Wi-Fi, or a cloud account. |
 
 <br>
 
@@ -63,6 +63,6 @@
 [![Website](https://img.shields.io/badge/Website-nexageapps.com-6e7681?style=flat-square&logo=googlechrome&logoColor=white)](https://www.nexageapps.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NexageApps-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nexageapps)
 [![X](https://img.shields.io/badge/X-@nexageapps2-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/nexageapps2)
-[![Instagram](https://img.shields.io/badge/Instagram-nexageapps-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nexageapps)
+[![Instagram](https://img.shields.io/badge/Instagram-nexageapps2-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nexageapps2/)
 
 </div>
