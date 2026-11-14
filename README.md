@@ -20,17 +20,33 @@
 
 <br>
 
-## <img src="https://cdn.simpleicons.org/googleplay/6e7681" height="24" align="top"> Products
+## <img src="https://cdn.simpleicons.org/googleplay/6e7681" height="24" align="absmiddle"> Products
 
-| Product | What it is |
-| --- | --- |
-| <img src="images/yaazh.png" height="32" alt="Yaazh"> **[Yaazh](https://www.nexageapps.com/apps/yaazh/)** | Local Voice AI studio for cloning a voice you have permission to keep and generating speech on your machine. |
-| <img src="images/kiara.png" height="32" alt="Kiara"> **[Kiara](https://www.nexageapps.com/apps/kiara/)** | Offline money manager and budget tracker with on-device categorisation. |
-| <img src="images/intwise.png" height="32" alt="intwise"> **[intwise](https://www.nexageapps.com/intwise/)** | Private nearby network. Connect over Bluetooth, exchange selected details with mutual approval, and chat without mobile data, Wi-Fi, or a cloud account. |
+<table>
+<tr>
+<th colspan="2" align="left">Product</th>
+<th align="left">What it is</th>
+</tr>
+<tr>
+<td valign="middle" width="40"><img src="images/yaazh.png" width="32" height="32" alt=""></td>
+<td valign="middle"><b><a href="https://www.nexageapps.com/apps/yaazh/">Yaazh</a></b></td>
+<td valign="middle">Local Voice AI studio for cloning a voice you have permission to keep and generating speech on your machine.</td>
+</tr>
+<tr>
+<td valign="middle" width="40"><img src="images/kiara.png" width="32" height="32" alt=""></td>
+<td valign="middle"><b><a href="https://www.nexageapps.com/apps/kiara/">Kiara</a></b></td>
+<td valign="middle">Offline money manager and budget tracker with on-device categorisation.</td>
+</tr>
+<tr>
+<td valign="middle" width="40"><img src="images/intwise.png" width="32" height="32" alt=""></td>
+<td valign="middle"><b><a href="https://www.nexageapps.com/intwise/">intwise</a></b></td>
+<td valign="middle">Private nearby network. Connect over Bluetooth, exchange selected details with mutual approval, and chat without mobile data, Wi-Fi, or a cloud account.</td>
+</tr>
+</table>
 
 <br>
 
-## <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="24" align="top"> SAP and Enterprise AI
+## <img src="https://cdn.simpleicons.org/sap/0FAAFF" height="24" align="absmiddle"> SAP and Enterprise AI
 
 *Read-only by design. Agents here never send, change, approve, or cancel anything.*
 
@@ -41,11 +57,11 @@
 | **[joule-career-coach-agent](https://github.com/nexageapps/joule-career-coach-agent)** | a read-only agent that turns an employee's own SuccessFactors record into a short career story: strengths, skill gaps, and two or three next steps. [SAP Community blog](https://community.sap.com/t5/artificial-intelligence-blogs-posts/successfactors-already-knows-your-career-story-here-s-how-i-built-the-joule/ba-p/14522283). | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white) |
 | **[joule-po-followup-agent](https://github.com/nexageapps/joule-po-followup-agent)** | a read-only Joule Studio assistant for buyers. It flags open purchase orders that need follow-up, ranks them by urgency and value, summarises why each one is on the list, and drafts a polite supplier email for the buyer to review. It never sends, changes, approves, or cancels anything. [SAP Community blog](https://community.sap.com/t5/artificial-intelligence-blogs-posts/build-a-joule-procurement-follow-up-agent-in-joule-studio/ba-p/14522351). | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white) |
 
-<img src="https://cdn.simpleicons.org/bitwarden/175DDC" height="16"> More on the security boundary: [Your AI Agent Wants to Talk to SuccessFactors: Start with the Security](https://community.sap.com/t5/artificial-intelligence-blogs-posts/your-ai-agent-wants-to-talk-to-successfactors-start-with-the-security/ba-p/14469334).
+<img src="https://cdn.simpleicons.org/bitwarden/175DDC" height="16" align="absmiddle"> More on the security boundary: [Your AI Agent Wants to Talk to SuccessFactors: Start with the Security](https://community.sap.com/t5/artificial-intelligence-blogs-posts/your-ai-agent-wants-to-talk-to-successfactors-start-with-the-security/ba-p/14469334).
 
 <br>
 
-## <img src="https://cdn.simpleicons.org/gitbook/BBDDE5" height="24" align="top"> Learning Resources
+## <img src="https://cdn.simpleicons.org/gitbook/BBDDE5" height="24" align="absmiddle"> Learning Resources
 
 | Repo | What it does | Stack |
 | --- | --- | --- |
@@ -56,7 +72,7 @@
 
 <br>
 
-## <img src="https://cdn.simpleicons.org/linktree/43E55E" height="24" align="top"> Connect
+## <img src="https://cdn.simpleicons.org/linktree/43E55E" height="24" align="absmiddle"> Connect
 
 <div align="center">
 
