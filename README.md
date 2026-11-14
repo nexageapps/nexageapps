@@ -24,9 +24,9 @@
 
 | Product | What it is |
 | --- | --- |
-| <img src="https://cdn.simpleicons.org/bluetooth/0082FC" height="16"> **Intwise** | private communication for people who are physically nearby, over Bluetooth, with no mobile data, WiFi, or cloud account. |
-| <img src="https://cdn.simpleicons.org/audacity/0000CC" height="16"> **Yaazh** | Voice AI built around voices people have permission to use, with privacy and consent at the centre. |
-| <img src="https://cdn.simpleicons.org/appstore/0D96F6" height="16"> **Kiara**, **QR Scan Pro**, **Lucky Flipper**, **OpenPDF Hub** | and other small tools. |
+| <img src="images/yaazh.png" height="32" alt="Yaazh"> **[Yaazh](https://www.nexageapps.com/apps/yaazh/)** | Local Voice AI studio for cloning a voice you have permission to keep and generating speech on your machine. |
+| <img src="images/kiara.png" height="32" alt="Kiara"> **[Kiara](https://www.nexageapps.com/apps/kiara/)** | Offline money manager and budget tracker with on-device categorisation. |
+| <img src="images/intwise.png" height="32" alt="intwise"> **[intwise](https://www.nexageapps.com/intwise/)** | Private nearby network. Connect over Bluetooth, exchange selected details with mutual approval, and chat without mobile data, Wi-Fi, or a cloud account. |
 
 <br>
 
