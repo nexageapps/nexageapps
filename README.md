@@ -4,6 +4,8 @@
 
 **Independent software studio building simple, privacy-first products.**
 
+We build software that works locally, respects user control, and avoids unnecessary cloud accounts.
+
 [![Website](https://img.shields.io/badge/Website-nexageapps.com-6e7681?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.nexageapps.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-NexageApps-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nexageapps)
 [![X](https://img.shields.io/badge/X-@nexageapps2-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/nexageapps2)
@@ -17,6 +19,13 @@
 ---
 
 > Software should not always need a cloud account, a constant internet connection, or personal data to be useful.
+
+## Currently building
+
+- **Local voice AI** with Yaazh
+- **Offline personal finance** with Kiara
+- **Private nearby communication** with intwise
+- **Read-only enterprise AI assistants** for SAP and SuccessFactors
 
 <br>
 
